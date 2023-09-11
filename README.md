@@ -2,7 +2,9 @@
 
 ## Dependency
 torch=1.10.2
+
 pytorch\_lightning=1.7.7 
+
 recbole=1.1.1
 
 ## Dataset and Pre-trained model
