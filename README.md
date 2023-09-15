@@ -4,10 +4,10 @@ This is the implementation of the $\mathtt{ANT}$ model in our paper (will be ava
 
 ## Dependency
 
--python==3.9.13
--torch==1.10.2
--pytorch\_lightning==1.7.7 
--recbole==1.1.1
+- python==3.9.13
+- torch==1.10.2
+- pytorch\_lightning==1.7.7 
+- recbole==1.1.1
 
 We encourage users to install the dependencies using `pip install`
 
