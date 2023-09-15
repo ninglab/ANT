@@ -31,8 +31,8 @@ if __name__ == '__main__':
     parser.add_argument('--num_nodes', type=int, default=1)
     parser.add_argument('--strategy', type=str, default=None)
     parser.add_argument('--pretrained_model', type=str, required=True)
-    parser.add_argument('--fixed_enc', type=str, required=True)
-    parser.add_argument('--reinitialize_MoE', type=str, required=True)
+    parser.add_argument('--fixed_enc', type=str, default='True')
+    parser.add_argument('--reinitialize_MoE', type=str, default='True')
     parser.add_argument('--n_layers_rec', type=int, default=2)
     parser.add_argument('--n_heads_rec', type=int, default=2)
 
