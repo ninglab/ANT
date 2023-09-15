@@ -29,6 +29,7 @@ We release our pre-trained recommendation model in the folder "best\_model/pretr
 Please refer to the following example on how to adapt the pre-trained recommendation model on a target task (e.g., Scientific).
 
 `python finetune.py --datasets=Scientific --fusion_lam=0.1 --max_epochs=100 --pretrained_model=Clothing_Home_Movies_Food_0.1_0_0`
+
 <code>fusion\_lam</code> specifies the coefficien for modality fusion $\beta$.
 
 ## Model Pre-training
