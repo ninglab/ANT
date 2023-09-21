@@ -1,6 +1,6 @@
 # Multi-modality Meets Re-learning: Mitigating Negative Transfer in Sequential Recommendation
 
-This is the implementation of the $\mathtt{ANT}$ model in our paper (will be available in arxiv soon).
+This is the implementation of the $\mathtt{ANT}$ model in our paper (https://arxiv.org/abs/2309.10195).
 
 ## Dependency
 
